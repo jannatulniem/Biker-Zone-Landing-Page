@@ -1,0 +1,28 @@
+.bg-light-green {
+    background-color: lightgreen;
+}
+
+.bg-light-blue{
+    background-color: lightblue;
+}
+
+.bg-light-pink{
+    background-color: lightpink;
+}
+
+.bg-light-yellow{
+    background-color: lightyellow;
+}
+
+.blue{
+    color: blue;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 50px;
+}
+
+.black{
+    font-size: 14px;
+    font-weight: bold;
+    
+}
